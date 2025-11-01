@@ -1,0 +1,2 @@
+﻿3537
+C:/Users/NyleT/Downloads/godot/bin/godot.windows.editor.x86_64.mono.exe

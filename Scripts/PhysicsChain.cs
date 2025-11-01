@@ -48,7 +48,7 @@ public partial class PhysicsChain : Node2D
 			joint.NodeB = segment.GetPath();
 
 			// Position joint halfway between current and next link
-			joint.Position = (previousBody.Position + segment.Position) / 2f;
+			joint.GlobalPosition = (previousBody.GlobalPosition + segment.GlobalPosition) / 2f;
 
 			// Adjust bias and softness
 			joint.Bias = 0.2f;

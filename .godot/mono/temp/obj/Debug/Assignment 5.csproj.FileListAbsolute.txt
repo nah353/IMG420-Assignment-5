@@ -15,3 +15,4 @@ C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\refint
 C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.pdb
 C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.genruntimeconfig.cache
 C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\ref\Assignment 5.dll
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.sourcelink.json
