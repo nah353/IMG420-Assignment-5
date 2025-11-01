@@ -1,0 +1,27 @@
+[gd_scene load_steps=6 format=3 uid="uid://dq733n6fo3hna"]
+
+[ext_resource type="Shader" uid="uid://dc7orhvps1cs8" path="res://Scripts/custom_particle.gdshader" id="1_grq5i"]
+[ext_resource type="Texture2D" uid="uid://de86bmyravj77" path="res://Assets/icon.svg" id="2_xiea8"]
+[ext_resource type="Script" uid="uid://b1r0gjp4yne60" path="res://Scripts/ParticleController.cs" id="3_mdkgm"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_qsseh"]
+shader = ExtResource("1_grq5i")
+shader_parameter/wave_intensity = 0.1
+shader_parameter/color_start = Color(1, 0.5, 0, 1)
+shader_parameter/color_end = Color(1, 0, 0.5, 1)
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_b0n3f"]
+particle_flag_disable_z = true
+gravity = Vector3(0, 98, 0)
+scale_min = 0.5
+scale_max = 0.5
+
+[node name="ParticleSystem" type="Node2D"]
+position = Vector2(615, 288)
+
+[node name="ParticleController" type="GPUParticles2D" parent="."]
+material = SubResource("ShaderMaterial_qsseh")
+amount = 1
+texture = ExtResource("2_xiea8")
+process_material = SubResource("ParticleProcessMaterial_b0n3f")
+script = ExtResource("3_mdkgm")

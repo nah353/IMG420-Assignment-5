@@ -1,0 +1,10 @@
+AudioStreamPlayer
+Sprite2D
+AudioStreamPlayer2D
+CollisionShape2D
+CharacterBody2D
+PinJoint2D
+StaticBody2D
+Node2D
+RigidBody2D
+GPUParticles2D

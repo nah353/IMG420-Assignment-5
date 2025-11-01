@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://cto5qbtrve4mr"]
+
+[ext_resource type="Texture2D" uid="uid://cuie031srsyx2" path="res://Assets/tile_0024.png" id="1_4dt37"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_nndty"]
+radius = 7.0
+height = 20.0
+
+[node name="ChainSegment" type="RigidBody2D"]
+scale = Vector2(1.5, 1.5)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+scale = Vector2(1.5, 1.5)
+shape = SubResource("CapsuleShape2D_nndty")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("1_4dt37")

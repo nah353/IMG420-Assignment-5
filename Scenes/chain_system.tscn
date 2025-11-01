@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://bv7tahg54csas"]
+
+[ext_resource type="Script" uid="uid://6dgmsmhvers2" path="res://Scripts/PhysicsChain.cs" id="1_hpve5"]
+[ext_resource type="PackedScene" uid="uid://cto5qbtrve4mr" path="res://Scenes/chain_segment.tscn" id="2_tsbi4"]
+
+[node name="ChainSystem" type="Node2D"]
+position = Vector2(574, 193)
+script = ExtResource("1_hpve5")
+SegmentScene = ExtResource("2_tsbi4")

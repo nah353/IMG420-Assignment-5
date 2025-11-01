@@ -1,0 +1,17 @@
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\bin\Debug\Assignment 5.deps.json
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\bin\Debug\Assignment 5.runtimeconfig.json
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\bin\Debug\Assignment 5.dll
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\bin\Debug\Assignment 5.pdb
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.AssemblyInfoInputs.cache
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.AssemblyInfo.cs
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignme.BC54BD87.Up2Date
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.dll
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\refint\Assignment 5.dll
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.pdb
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\Assignment 5.genruntimeconfig.cache
+C:\Users\NyleT\OneDrive\Documents\assignment-5\.godot\mono\temp\obj\Debug\ref\Assignment 5.dll
